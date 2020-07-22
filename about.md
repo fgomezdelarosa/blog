@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de mí
-permalink: /Acerca de mí/
+permalink: /Acerca/
 ---
 
 Soy profesional en finanzas y negocios internacionales **(2009)** con especialización en gerencia de proyectos de la Universidad Tecnológica de Bolívar **(2013)** y maestría en economía de la Universidad del Norte **(2019)**. He aportado conocimiento desde el sector privado y público, a su vez, desde áreas administrativas y operativas incluyendo manejo de personal.
